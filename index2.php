@@ -2,7 +2,7 @@
 
     <div class="starter-template">
 
-        <img src=images/defiallaitement.png>
+        <img src=images/logo-couleur.png>
         <img src=images/allaitement.png style="border:5px solid #999999">
 
         <p>&nbsp;&nbsp;&nbsp;
