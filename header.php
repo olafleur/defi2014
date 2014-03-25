@@ -66,12 +66,12 @@
 		</div>
 		<div class="collapse navbar-collapse">
 			<ul class="nav navbar-nav">
-				<li><a href="#">Accueil</a></li>
-				<li><a href="#">L'évènement</a></li>
-				<li><a href="#">Défis antérieurs</a></li>
-				<li><a href="#">Commandites</a></li>
-				<li><a href="#">Inscription</a></li>
-				<li><a href="#">Contact</a></li>
+				<li><a href="index2.php">Accueil</a></li>
+				<li><a href="evenement.php">L'évènement</a></li>
+				<li><a href="anciensdefis.php">Défis antérieurs</a></li>
+				<li><a href="commandites.php">Commandites</a></li>
+				<li><a href="inscription.php">Inscription</a></li>
+				<li><a href="contact.php">Contact</a></li>
 			</ul>
 		</div>
 	</div>
