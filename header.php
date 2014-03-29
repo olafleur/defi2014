@@ -11,44 +11,7 @@
 
 	<!-- Bootstrap core CSS -->
 	<link href="css/bootstrap.css" rel="stylesheet">
-
-	<style>
-		@font-face {
-			font-family: "Lovelo Black";
-			src: url("fonts/LoveloBlack.otf") format("opentype");
-		}
-
-		body {
-			padding-top: 20px;
-			background-color: #666666;
-		}
-
-		.starter-template {
-			padding: 40px 15px;
-			text-align: center;
-			background-color: white;
-		}
-
-		.droite {
-			background-color: #f1686d;
-			border-radius: 50px;
-			padding: 30px;
-			vertical-align: top;
-		}
-
-		.gauche {
-			background-color: #01b6d9;
-			border-radius: 15px;
-			padding: 0 30px 30px;
-			text-align: left;
-			vertical-align: top;
-		}
-
-		.beaufont {
-			font-family: "Lovelo Black",serif;
-		}
-
-	</style>
+	<link href="css/style.css" rel="stylesheet">
 </head>
 
 <body>
