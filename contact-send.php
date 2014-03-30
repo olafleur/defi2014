@@ -2,22 +2,36 @@
 require 'PHPMailerAutoload.php';
 
 $mail = new PHPMailer;
+$mail->CharSet = "UTF-8";
 
-$mail->From = 'do-not-reply@defiallaitementquebec.com';
-$mail->FromName = 'Défi Allaitement Québec';
-$mail->addAddress('olivier.lafleur@gmail.com', 'Olivier Lafleur');  // Add a recipient
-
-$mail->WordWrap = 50;                                 // Set word wrap to 50 characters
-$mail->isHTML(true);                                  // Set email format to HTML
-
-$mail->Subject = 'Here is the subject';
-$mail->Body    = 'This is the HTML message body <b>in bold!</b>';
-$mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
-
-if(!$mail->send()) {
-	echo 'Message could not be sent.';
-	echo 'Mailer Error: ' . $mail->ErrorInfo;
+if (!isset($_POST['message'])) {
 	exit;
 }
 
-echo 'Message has been sent';
+$mail->From = $_POST['email'];
+$mail->FromName = $_POST['prenom'] . " " . $_POST['nom'];
+$mail->addAddress("olivier.lafleur@gmail.com"); // Add a recipient
+
+$mail->WordWrap = 50; // Set word wrap to 50 characters
+$mail->isHTML(true); // Set email format to HTML
+
+$mail->Subject = 'Défi Allaitement Québec - Commentaire';
+$mail->Body = 'Vous avez reçu un commentaire de <b>' . $_POST['prenom'] . " " . $_POST['nom'] . "</b><br><b>Message</b> : " . $_POST['message'];
+$mail->AltBody = 'Vous avez reçu un commentaire de ' . $_POST['prenom'] . " " . $_POST['nom'] . "\nMessage : " . $_POST['message'];
+
+include("header.php") ?>
+	<div class="starter-template">
+
+		<?php
+
+		if (!$mail->send()) {
+			echo 'Une erreur s\'est produite. Impossible d\'envoyer le courriel';
+			echo 'Erreur: ' . $mail->ErrorInfo;
+			exit;
+		}
+
+		echo 'Le message a bien été envoyé<br><a href="index2.php">Retourner à la page principale</a>'; ?>
+
+	</div>
+
+<?php include("footer.php") ?>
