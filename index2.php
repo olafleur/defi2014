@@ -16,7 +16,7 @@
                     <br>
 
                     <p style="text-indent: 2em">
-                        C'est le 14 septembre prochain que
+                        C'est le 6 septembre prochain que
                         se tiendra le Défi Allaitement Québec 2014. Cette année, notre porte-parole sera la flamboyante
                         auteure, animatrice et mère Josée Bournival.
                     </p>

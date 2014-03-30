@@ -16,13 +16,18 @@
 			<input class="spacing" type="email" id="email" name="email" placeholder="Entrez votre courriel...">
 			<br><br>
 			<label for="lieu">Où avez-vous entendu parler du Défi Allaitement?</label><br>
-			<input class="aligncheckbox" type="checkbox" id="lieu" name="lieu[]" value="Internet">Internet<br>
-			<input class="aligncheckbox" type="checkbox" id="lieu" name="lieu[]" value="Publi-sac">Publi-sac<br>
-			<input class="aligncheckbox" type="checkbox" id="lieu" name="lieu[]" value="Organismes allaitement">Organismes allaitement<br>
-			<input class="aligncheckbox" type="checkbox" id="lieu" name="lieu[]" value="Hôpitaux/CSSS">Hôpitaux/CSSS<br>
-			<input class="aligncheckbox" type="checkbox" id="lieu" name="lieu[]" value="Bouche à Oreille">Bouche à Oreille<br>
-			<input class="aligncheckbox" type="checkbox" id="lieu" name="lieu[]" value="Autres">Autres<br>
-
+			<center>
+				<div style="width:30%;text-align: left">
+					<input class="aligncheckbox" type="checkbox" id="lieu" name="lieu[]" value="Internet">&nbsp;Internet<br>
+					<input class="aligncheckbox" type="checkbox" id="lieu" name="lieu[]" value="Publi-sac">&nbsp;Publi-sac<br>
+					<input class="aligncheckbox" type="checkbox" id="lieu" name="lieu[]" value="Organismes allaitement">&nbsp;Organismes
+					allaitement<br>
+					<input class="aligncheckbox" type="checkbox" id="lieu" name="lieu[]" value="Hôpitaux/CSSS">&nbsp;Hôpitaux/CSSS<br>
+					<input class="aligncheckbox" type="checkbox" id="lieu" name="lieu[]" value="Bouche à Oreille">&nbsp;Bouche
+					à Oreille<br>
+					<input class="aligncheckbox" type="checkbox" id="lieu" name="lieu[]" value="Autres">&nbsp;Autres<br>
+				</div>
+			</center>
 			<br>
 			<button type="submit">S'inscrire au Défi Allaitement 2014</button>
 		</form>

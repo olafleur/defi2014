@@ -6,26 +6,29 @@
 
 		<form method="post" action="contact-envoi.php" onsubmit="return verify()">
 			<label for="nom">Nom</label>
-				<input class="spacing" type="text" id="nom" name="nom" placeholder="Entrez votre nom...">
+			<input class="spacing" type="text" id="nom" name="nom" placeholder="Entrez votre nom...">
 			<br>
 			<label for="nom">Prénom</label>
-				<input class="spacing" type="text" id="prenom" name="prenom" placeholder="Entrez votre prénom...">
+			<input class="spacing" type="text" id="prenom" name="prenom" placeholder="Entrez votre prénom...">
 			<br>
 			<label for="email">Courriel</label>
-				<input class="spacing" type="email" id="email" name="email" placeholder="Entrez votre courriel...">
+			<input class="spacing" type="email" id="email" name="email" placeholder="Entrez votre courriel...">
 			<br>
 			<label for="message">Message</label>
-				<textarea id="message" name="message" rows="10" cols="40"></textarea>
+			<textarea id="message" name="message" rows="10" cols="40"></textarea>
 			<br><br>
 			<button type="submit">Envoyer votre message</button>
 		</form>
 
 		<br>
 		<br>
-
-		Si vous préférez, vous pouvez laisser un message sur la boîte vocale de Chantelait (groupe d'entraide en
-		allaitement) et nous nous ferons un plaisir de vous rappeler dans les plus brefs délais.<br>
-		No. de téléphone : 418-877-5333
+		<center>
+			<div style="text-align:left; width:60%">
+				Si vous préférez, vous pouvez laisser un message sur la boîte vocale de Chantelait (groupe d'entraide en
+				allaitement) et nous nous ferons un plaisir de vous rappeler dans les plus brefs délais.<br>
+				No. de téléphone : 418-877-5333
+			</div>
+		</center>
 
 		<br><br>
 
