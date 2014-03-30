@@ -5,18 +5,18 @@
 		<div class="espacementquestions">Des questions? Contactez-nous!</div>
 
 		<form method="post" action="contact-send.php" onsubmit="return verify()">
-			<label for="nom">Nom
+			<label for="nom">Nom</label>
 				<input type="text" id="nom" name="nom" placeholder="Entrez votre nom...">
-			</label><br>
-			<label for="nom">Prénom
+			<br>
+			<label for="nom">Prénom</label>
 				<input type="text" id="prenom" name="prenom" placeholder="Entrez votre prénom...">
-			</label><br>
-			<label for="email">Courriel
+			<br>
+			<label for="email">Courriel</label>
 				<input type="email" id="email" name="email" placeholder="Entrez votre courriel...">
-			</label><br>
-			<label for="message">Message
+			<br>
+			<label for="message">Message</label>
 				<textarea id="message" name="message" rows="10" cols="40"></textarea>
-			</label><br>
+			<br><br>
 			<button type="submit">Envoyer votre message</button>
 		</form>
 

@@ -43,3 +43,26 @@ body {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+form {
+    width: 80%;
+    margin: 0 auto;
+}
+
+label, input, textarea {
+    display: inline-block;
+}
+
+label {
+    width: 30%;
+    text-align: right;
+}
+
+label + input, label + textarea {
+    width: 30%;
+    margin: 0 30% 0 4%;
+}
+
+input + input {
+    float: right;
+}
