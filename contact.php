@@ -6,13 +6,13 @@
 
 		<form method="post" action="contact-envoi.php" onsubmit="return verify()">
 			<label for="nom">Nom</label>
-				<input type="text" id="nom" name="nom" placeholder="Entrez votre nom...">
+				<input class="spacing" type="text" id="nom" name="nom" placeholder="Entrez votre nom...">
 			<br>
 			<label for="nom">Prénom</label>
-				<input type="text" id="prenom" name="prenom" placeholder="Entrez votre prénom...">
+				<input class="spacing" type="text" id="prenom" name="prenom" placeholder="Entrez votre prénom...">
 			<br>
 			<label for="email">Courriel</label>
-				<input type="email" id="email" name="email" placeholder="Entrez votre courriel...">
+				<input class="spacing" type="email" id="email" name="email" placeholder="Entrez votre courriel...">
 			<br>
 			<label for="message">Message</label>
 				<textarea id="message" name="message" rows="10" cols="40"></textarea>

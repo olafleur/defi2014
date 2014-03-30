@@ -49,7 +49,7 @@ form {
     margin: 0 auto;
 }
 
-label, input, textarea {
+label, input.spacing, textarea {
     display: inline-block;
 }
 
@@ -58,11 +58,11 @@ label {
     text-align: right;
 }
 
-label + input, label + textarea {
+label + input.spacing, label + textarea {
     width: 30%;
     margin: 0 30% 0 4%;
 }
 
-input + input {
-    float: right;
+.aligncheckbox {
+
 }
