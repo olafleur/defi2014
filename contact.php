@@ -4,7 +4,7 @@
 
 		<div class="espacementquestions">Des questions? Contactez-nous!</div>
 
-		<form method="post" action="contact-send.php" onsubmit="return verify()">
+		<form method="post" action="contact-envoi.php" onsubmit="return verify()">
 			<label for="nom">Nom</label>
 				<input type="text" id="nom" name="nom" placeholder="Entrez votre nom...">
 			<br>
