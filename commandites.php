@@ -1,6 +1,6 @@
 <?php include("header.php") ?>
 	<div class="starter-template">
-		<h1 class="beaufont">Commandites</h1>
+		<h1 class="beaufont fontgris">Commandites</h1>
 
 		<div class="commanditaire">
 			<a href="http://chantelait.org">

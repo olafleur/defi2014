@@ -14,7 +14,7 @@ body {
     background-color: white;
 }
 
-.droite {
+.backrose {
     background-color: #f1686d;
     border-radius: 50px;
     padding: 30px;
@@ -22,7 +22,7 @@ body {
     box-shadow: 8px 8px 12px #aaa;
 }
 
-.gauche {
+.backbleu {
     background-color: #01b6d9;
     border-radius: 15px;
     padding: 0 30px 30px;
@@ -35,12 +35,16 @@ body {
     font-family: "Lovelo Black", serif;
 }
 
+.fontgris {
+    color: #999999;
+}
+
 .commanditaire {
     padding-top: 50px;
 }
 
 .espacementquestions {
-    padding-top: 20px;
+    padding-top: 0px;
     padding-bottom: 20px;
 }
 

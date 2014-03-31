@@ -29,14 +29,14 @@
             background-color: white;
         }
 
-        .droite {
+        .backrose {
             background-color: #f1686d;
             border-radius: 50px;
             padding: 30px;
             vertical-align: top;
         }
 
-        .gauche {
+        .backbleu {
             background-color: #01b6d9;
             border-radius: 15px;
             padding: 0 30px 30px;

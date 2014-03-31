@@ -8,7 +8,7 @@
         <p>&nbsp;&nbsp;&nbsp;
         <table width=100%>
             <tr>
-                <td width=75% class="gauche">
+                <td width=75% class="backbleu">
 
                     <h1 class="beaufont">Défi 2014 - Laurier Québec</h1>
                     <img src=images/josee.jpg style="float:right;border:5px solid #777777">
@@ -28,8 +28,8 @@
                     </p>
                 </td>
                 <td width=5% style="background-color:white;"></td>
-                <td width=20% class="droite">
-                    <b><span class="beaufont">Des questions ?</span></b><br>
+                <td width=20% class="backrose">
+                    <b><span class="beaufont">Des questions?</span></b><br>
                     Pour de plus amples informations sur l'allaitement, n'hésitez pas à contacter un groupe
                     d'entraide:<p>
 

@@ -1,10 +1,10 @@
 <?php include("header.php") ?>
 <div class="starter-template">
-	<h1 class="beaufont">Défi Allaitement 2014</h1>
+	<h1 class="beaufont fontgris">Défi Allaitement 2014</h1>
 
-	<h2 class="beaufont">Horaire</h2>
+	<h2 class="beaufont fontgris">Horaire</h2>
 	<center>
-		<div style="text-align:left; width:60%">
+		<div class="backrose" style="text-align:left; width:60%">
 			L'événement aura lieu le 6 septembre 2014 au 3e étage de Laurier Québec (à l'emplacement des restaurants).
 			L'horaire est sujet à changement.<br><br>
 			<b>9h30</b> : Inscription des mamans<br>
@@ -13,10 +13,10 @@
 		</div>
 	</center>
 
-	<h2 class="beaufont">Le défi, c'est quoi?</h2>
+	<h2 class="beaufont fontgris">Le défi, c'est quoi?</h2>
 
 	<center>
-		<div style="text-align:left; width:60%">
+		<div class="backrose" style="text-align:left; width:60%">
 			Les principaux objectifs de l’événement ayant comme thématique :<br> <b>« Avant la montée de lait, appelle-les »</b>
 			sont :<br>
 

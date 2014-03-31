@@ -1,24 +1,26 @@
 <?php include("header.php") ?>
 	<div class="starter-template">
-		<h1 class="beaufont">Contact</h1>
+		<h1 class="beaufont fontgris">Contact</h1>
 
-		<div class="espacementquestions">Des questions? Contactez-nous!</div>
+		<div class="backrose">
+			<div class="espacementquestions">Des questions? Contactez-nous!</div>
 
-		<form method="post" action="contact-envoi.php" onsubmit="return verify()">
-			<label for="nom">Nom</label>
-			<input class="spacing" type="text" id="nom" name="nom" placeholder="Entrez votre nom...">
-			<br>
-			<label for="nom">Prénom</label>
-			<input class="spacing" type="text" id="prenom" name="prenom" placeholder="Entrez votre prénom...">
-			<br>
-			<label for="email">Courriel</label>
-			<input class="spacing" type="email" id="email" name="email" placeholder="Entrez votre courriel...">
-			<br>
-			<label for="message">Message</label>
-			<textarea id="message" name="message" rows="10" cols="40"></textarea>
-			<br><br>
-			<button type="submit">Envoyer votre message</button>
-		</form>
+			<form method="post" action="contact-envoi.php" onsubmit="return verify()">
+				<label for="nom">Nom</label>
+				<input class="spacing" type="text" id="nom" name="nom" placeholder="Entrez votre nom...">
+				<br>
+				<label for="nom">Prénom</label>
+				<input class="spacing" type="text" id="prenom" name="prenom" placeholder="Entrez votre prénom...">
+				<br>
+				<label for="email">Courriel</label>
+				<input class="spacing" type="email" id="email" name="email" placeholder="Entrez votre courriel...">
+				<br>
+				<label for="message">Message</label>
+				<textarea id="message" name="message" rows="10" cols="40"></textarea>
+				<br><br>
+				<button type="submit">Envoyer votre message</button>
+			</form>
+		</div>
 
 		<br>
 		<br>
