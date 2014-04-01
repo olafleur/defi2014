@@ -1,16 +1,11 @@
 <?php include("header.php") ?>
 	<div class="starter-template">
+		<img src=images/logo-couleur.png>
 		<h1 class="beaufont fontgris">Merci à nos commanditaires!</h1>
 
 		<div class="commanditaire">
 			<a href="http://chantelait.org">
 				<img src="images/chantelait.jpg">
-			</a>
-		</div>
-
-		<div class="commanditaire">
-			<a href="http://laurierquebec.com">
-				<img src="images/laurier.jpg">
 			</a>
 		</div>
 
@@ -27,6 +22,18 @@
 		</div>
 
 		<div class="commanditaire">
+			<a href="http://entraidenaturolait.com">
+				<img src="images/entraide.gif">
+			</a>
+		</div>
+
+		<div class="commanditaire">
+			<a href="http://laurierquebec.com">
+				<img src="images/laurier.jpg">
+			</a>
+		</div>
+
+		<div class="commanditaire">
 			<a href="http://force-g.ca">
 				<img src="images/forceg.png">
 			</a>
@@ -35,12 +42,6 @@
 		<div class="commanditaire">
 			<a href="http://www.rrsss03.gouv.qc.ca/">
 				<img src="images/quebec.jpg">
-			</a>
-		</div>
-
-		<div class="commanditaire">
-			<a href="http://entraidenaturolait.com">
-				<img src="images/entraide.gif">
 			</a>
 		</div>
 	</div>

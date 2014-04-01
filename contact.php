@@ -1,10 +1,10 @@
 <?php include("header.php") ?>
 	<div class="starter-template">
-		<h1 class="beaufont fontgris">Contact</h1>
+		<img src=images/logo-couleur.png>
+		<h1 class="beaufont fontgris">Des questions? Contactez-nous!</h1>
 
 		<center>
 			<div class="backrose" style="width:70%">
-				<div class="espacementquestions">Des questions? Contactez-nous!</div>
 
 				<form method="post" action="contact-envoi.php" onsubmit="return verify()">
 					<label for="nom">Nom</label>

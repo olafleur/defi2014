@@ -1,5 +1,8 @@
 <?php include("header.php") ?>
 <div class="starter-template">
+	<img src=images/logo-couleur.png>
+	<img src=images/haut.png style="border:5px solid #999999">
+
 	<h1 class="beaufont fontgris">Défi Allaitement 2014</h1>
 
 	<h2 class="beaufont fontgris">Horaire</h2>

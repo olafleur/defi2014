@@ -42,7 +42,7 @@
 					</table>
 					</center>
 				</td>
-				<td width=5% style="background-color:white;"></td>
+
 				<td width=20% class="backrose">
 					<b><span class="beaufont">Des questions?</span></b><br>
 					Pour de plus amples informations sur l'allaitement, n'hésitez pas à contacter un groupe
@@ -64,6 +64,7 @@
 
 						418-623-0971</p>
 				</td>
+				<td width=5% style="background-color:transparent;"></td>
 			</tr>
 		</table>
 

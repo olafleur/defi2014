@@ -1,5 +1,6 @@
 <?php include("header.php") ?>
 	<div class="starter-template">
+		<img src=images/logo-couleur.png>
 		<h1 class="beaufont fontgris">Inscription au Défi allaitement 2014</h1>
 		<center>
 		<div class="backrose" style="width:70%">
@@ -36,6 +37,13 @@
 		</div>
 		</center>
 		<br><br>
+		<center>
+			<div style="text-align:center; width:60%">
+				Si vous préférez, vous pouvez laisser un message sur la boîte vocale de <span class="beaufont"><a href="http://chantelait.org" style="color: #666666">Chantelait</a></span> (groupe d'entraide en
+				allaitement).<br>
+				<span class="beaufont" style="color: #666666">418-877-5333</span>
+			</div>
+		</center>
 	</div>
 
 	<script language="JavaScript">
