@@ -35,6 +35,7 @@
 				<li><a href="commanditaires.php">Commanditaires</a></li>
 				<li><a href="inscription.php">Inscription</a></li>
 				<li><a href="contact.php">Contact</a></li>
+				<li><a href="https://www.facebook.com/pages/D%C3%A9fi-Allaitement-Qu%C3%A9bec/198006883562465"><img src="images/facebook.png"></a></li>
 			</ul>
 		</div>
 	</div>
