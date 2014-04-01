@@ -56,7 +56,7 @@
 
 						418-847-1957</p>
 
-					<p><a href="http://www.entraidenaturolait.com"><b>Entraide-Naturo Lait</b></a> <br>
+					<p><a href="http://www.entraidenaturolait.com"><b>Entraide Naturo-Lait</b></a> <br>
 
 						418-663-2711 </p>
 
