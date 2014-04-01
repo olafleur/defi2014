@@ -1,6 +1,6 @@
 <?php include("header.php") ?>
 	<div class="starter-template">
-		<h1 class="beaufont fontgris">Commandites</h1>
+		<h1 class="beaufont fontgris">Merci à nos commanditaires!</h1>
 
 		<div class="commanditaire">
 			<a href="http://chantelait.org">
@@ -35,6 +35,12 @@
 		<div class="commanditaire">
 			<a href="http://www.rrsss03.gouv.qc.ca/">
 				<img src="images/quebec.jpg">
+			</a>
+		</div>
+
+		<div class="commanditaire">
+			<a href="http://entraidenaturolait.com">
+				<img src="images/entraide.gif">
 			</a>
 		</div>
 	</div>
