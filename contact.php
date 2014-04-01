@@ -27,10 +27,10 @@
 		<br>
 		<br>
 		<center>
-			<div style="text-align:left; width:60%">
-				Si vous préférez, vous pouvez laisser un message sur la boîte vocale de Chantelait (groupe d'entraide en
+			<div style="text-align:center; width:60%">
+				Si vous préférez, vous pouvez laisser un message sur la boîte vocale de <span class="beaufont"><a href="http://chantelait.org" style="color: #666666">Chantelait</a></span> (groupe d'entraide en
 				allaitement) et nous nous ferons un plaisir de vous rappeler dans les plus brefs délais.<br>
-				No. de téléphone : 418-877-5333
+				<span class="beaufont" style="color: #666666">418-877-5333</span>
 			</div>
 		</center>
 
