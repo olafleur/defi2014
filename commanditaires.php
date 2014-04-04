@@ -17,7 +17,7 @@
 
 		<div class="commanditaire">
 			<a href="http://www.mamielait.com/">
-				<img src="images/mamie-lait.gif">
+				<img src="images/mamie-lait.jpg">
 			</a>
 		</div>
 
