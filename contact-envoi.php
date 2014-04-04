@@ -30,7 +30,7 @@ include("header.php") ?>
 			exit;
 		}
 
-		echo 'Le message a bien été envoyé<br><a href="index2.php">Retourner à la page principale</a>'; ?>
+		echo 'Le message a bien été envoyé<br><a href="index.php">Retourner à la page principale</a>'; ?>
 
 	</div>
 

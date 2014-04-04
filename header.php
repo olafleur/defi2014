@@ -25,11 +25,11 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="index2.php">Défi allaitement Québec</a>
+			<a class="navbar-brand" href="index.php">Défi allaitement Québec</a>
 		</div>
 		<div class="collapse navbar-collapse">
 			<ul class="nav navbar-nav">
-				<li><a href="index2.php">Accueil</a></li>
+				<li><a href="index.php">Accueil</a></li>
 				<li><a href="evenement.php">Évènement</a></li>
 				<li><a href="anciensdefis.php">Défis antérieurs</a></li>
 				<li><a href="commanditaires.php">Commanditaires</a></li>

@@ -34,7 +34,7 @@ include("header.php") ?>
 			exit;
 		}
 
-		echo 'Vous êtes maintenant inscrite au Défi Allaitement 2014. Félicitations!<br><a href="index2.php">Retourner à la page principale</a>'; ?>
+		echo 'Vous êtes maintenant inscrite au Défi Allaitement 2014. Félicitations!<br><a href="index.php">Retourner à la page principale</a>'; ?>
 
 	</div>
 
