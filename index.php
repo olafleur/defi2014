@@ -45,7 +45,7 @@
 
 				<td width=20% class="backrose">
 					<b><span class="beaufont">Des questions?</span></b><br>
-					Pour de plus amples informations sur l'allaitement, n'hésitez pas à contacter un groupe
+					Pour de plus amples renseignements sur l'allaitement, n'hésitez pas à contacter un groupe
 					d'entraide:<p>
 
 					<p><a href="http://www.chantelait.org"><b>Chantelait</b></a> <br>

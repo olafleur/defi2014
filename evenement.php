@@ -9,7 +9,7 @@
 	<center>
 		<div class="backrose" style="text-align:left; width:60%">
 			<center>
-				L'événement aura lieu le 6 septembre 2014 dans le cadre du Salon Nouvelle Maman, au 3e étage de Laurier Québec (2700, boul. Laurier).<br>
+				L'évènement aura lieu le 6 septembre 2014 dans le cadre du Salon Nouvelle Maman, au 3e étage de Laurier Québec (2700, boul. Laurier).<br>
 				L'horaire est sujet à changement.<br><br>
 				<b>9h30</b> : Inscription des mamans<br>
 				<b>10h - 11h</b> : Animation et Défi Allaitement<br>
@@ -23,7 +23,7 @@
 	<center>
 		<div class="backrose" style="text-align:left; width:60%">
 			<center>
-				Les principaux objectifs de l’événement ayant comme thématique :<br> <b>« L'allaitement : un cadeau pour la vie »</b>
+				Les principaux objectifs de l’évènement ayant comme thématique :<br> <b>« L'allaitement : un cadeau pour la vie »</b>
 				sont :<br><br>
 			</center>
 				* Fournir des renseignements de qualité aux mères concernant l’allaitement et le soutien offert par la
