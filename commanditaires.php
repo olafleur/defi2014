@@ -50,6 +50,12 @@
 				<img src="images/ressourcesnaissances.jpg">
 			</a>
 		</div>
+
+		<div class="commanditaire">
+			<a href="http://www.boutiquerosalice.com/">
+				<img src="images/rosalice.jpg">
+			</a>
+		</div>
 	</div>
 
 <?php include("footer.php") ?>
