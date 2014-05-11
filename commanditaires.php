@@ -52,9 +52,16 @@
 		</div>
 
 		<div class="commanditaire">
-			<a href="http://www.boutiquerosalice.com/">
-				<img src="images/rosalice.jpg">
+			<a href="http://www.joellemalenfant.com">
+				<img src="images/drmalenfant.png">
 			</a>
+		</div>
+
+		<div class="commanditaire">
+			<a href="http://www.lecapucin.ca">
+				<img src="images/capucin.png">
+			</a><br>
+			(anciennement <a href="http://www.lacalinerie.com">La Câlinerie</a>)
 		</div>
 	</div>
 
