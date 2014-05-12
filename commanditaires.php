@@ -69,6 +69,13 @@
 			</a><br>
 			(anciennement <a href="http://www.lacalinerie.com">La Câlinerie</a>)
 		</div>
+
+        <div class="commanditaire">
+            <a href="http://www.aquariumduquebec.com">
+                <img src="images/aquarium.jpg">
+            </a>
+        </div>
+
 	</div>
 
 <?php include("footer.php") ?>
