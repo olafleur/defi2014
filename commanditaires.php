@@ -1,7 +1,6 @@
 <?php include("header.php") ?>
 	<div class="starter-template">
 		<img src=images/logo-couleur.png>
-
 		<h1 class="beaufont fontgris">Merci à nos commanditaires!</h1>
 
 		<div class="commanditaire">
@@ -72,6 +71,12 @@
 		</div>
 
 		<div class="commanditaire">
+			<a href="http://www.aquariumduquebec.com">
+				<img src="images/aquarium.jpg">
+			</a>
+		</div>
+		
+		<div class="commanditaire">
 			<img src="images/wonderbra.jpg">
 		</div>
 
@@ -84,6 +89,12 @@
 		<div class="commanditaire">
 			<img src="images/thalasso.jpg">
 		</div>
+
+        <div class="commanditaire">
+            <a href="http://www.aquariumduquebec.com">
+                <img src="images/aquarium.jpg">
+            </a>
+        </div>
 	</div>
 
 <?php include("footer.php") ?>
