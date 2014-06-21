@@ -1,6 +1,7 @@
 <?php include("header.php") ?>
 	<div class="starter-template">
 		<img src=images/logo-couleur.png>
+
 		<h1 class="beaufont fontgris">Merci à nos commanditaires!</h1>
 
 		<div class="commanditaire">
@@ -75,9 +76,11 @@
 				<img src="images/aquarium.jpg">
 			</a>
 		</div>
-		
+
 		<div class="commanditaire">
-			<img src="images/wonderbra.jpg">
+			<a href="http://wonderbra.ca">
+				<img src="images/wonderbra.jpg">
+			</a>
 		</div>
 
 		<div class="commanditaire">
