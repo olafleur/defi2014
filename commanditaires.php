@@ -92,6 +92,12 @@
 		<div class="commanditaire">
 			<img src="images/thalasso.jpg">
 		</div>
+
+		<div class="commanditaire">
+			<a href="http://www.rpsp.ca/">
+				<img src="images/pediatrix.jpg">
+			</a>
+		</div>
 	</div>
 
 <?php include("footer.php") ?>
