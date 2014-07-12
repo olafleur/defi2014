@@ -98,6 +98,16 @@
 				<img src="images/pediatrix.jpg">
 			</a>
 		</div>
+
+		<div class="commanditaire">
+			<a href="http://www.bougeotteetplacotine.ca/">
+				<img src="images/bougeotte.png">
+			</a>
+		</div>
+
+		<div class="commanditaire">
+			<img src="images/Logo_caroline%20schoofs-final.png">
+		</div>
 	</div>
 
 <?php include("footer.php") ?>
