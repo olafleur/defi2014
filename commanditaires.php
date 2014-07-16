@@ -108,6 +108,10 @@
 		<div class="commanditaire">
 			<img src="images/Logo_caroline%20schoofs-final.png">
 		</div>
+
+		<div class="commanditaire">
+			<img src="images/pakane.png">
+		</div>
 	</div>
 
 <?php include("footer.php") ?>
