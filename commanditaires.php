@@ -12,7 +12,7 @@
 
 		<div class="commanditaire">
 			<a href="http://allaitementquebec.org">
-				<img src="images/allaitementquebec.gif">
+				<img src="images/allaitement-quebec.png">
 			</a>
 		</div>
 
@@ -115,6 +115,10 @@
 
 		<div class="commanditaire">
 			<img src="images/rougefm.jpg">
+		</div>
+
+		<div class="commanditaire">
+			<img src="images/vertlimette.png">
 		</div>
 	</div>
 
