@@ -9,11 +9,11 @@
 	<center>
 		<div class="backrose" style="text-align:left; width:60%">
 			<center>
-				L'évènement aura lieu le 6 septembre 2014 dans le cadre du Salon Nouvelle Maman, au 3e étage de Laurier Québec (2700, boul. Laurier).<br>
-				L'horaire est sujet à changement.<br><br>
-				<b>9h30</b> : Inscription des mamans<br>
-				<b>10h - 11h</b> : Animation et Défi Allaitement<br>
-				<b>11h-11h15</b> : Prix de présence
+				L'évènement aura lieu le 6 septembre 2014 dans le cadre du Salon Nouvelle Maman, au 3e étage de Laurier Québec (2700, boul. Laurier).<br><br>
+				Cette année, <a href="http://photonikplus.com/">Photonik</a> sera sur place pour capturer ces précieux moments.<br><br>
+				<b>9h30</b> : Inscription et début des activités (clown)<br>
+				<b>10h - 11h</b> : Animation et tétée collective<br>
+				<b>11h-11h15</b> : Remise des prix de présence
 			</center>
 		</div>
 	</center>
