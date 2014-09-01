@@ -124,6 +124,10 @@
 		<div class="commanditaire">
 			<img src="images/laloba.jpg">
 		</div>
+
+		<div class="commanditaire">
+			<img src="images/zeste.jpg">
+		</div>
 	</div>
 
 <?php include("footer.php") ?>
