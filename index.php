@@ -21,7 +21,7 @@
 
 								<div style="text-align: justify">
 
-209 mères ont allaité leur(s) enfant(s) à 11h samedi le 6 septembre dernier à Place Laurier. Une fois encore, le record de participation de l'année précédente à été battu. Merci 209 fois, car c'est grâce à VOUS si cet événement est un succès!<br></div>
+209 mères ont allaité leur(s) enfant(s) à 11h samedi le 6 septembre dernier à Place Laurier. Une fois encore, le record de participation de l'année précédente a été battu. Merci 209 fois, car c'est grâce à VOUS si cet événement a été un succès!<br></div>
 <div style="text-align: justify"><p style="text-indent: 2em">
 À tous les accompagnateurs qui ont su comprendre ce que représentait ce défi pour leur femme, leur fille ou leur amie, merci! Le support de l'entourage est déterminant dans la réussite d'un allaitement; vous faites donc partie aussi de la réussite du Défi Allaitement Québec 2014!
 
