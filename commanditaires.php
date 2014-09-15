@@ -132,6 +132,22 @@
 		<div class="commanditaire">
 			<img src="images/parentstoutinclus.png">
 		</div>
+		
+		<div class="commanditaire">
+			<font size=7><a href="https://www.facebook.com/pages/C%C3%A9raginaire-Julie-Magnan/126060011855?fref=ts">Céraginaire</a></font>
+		</div>
+		
+		<div class="commanditaire">
+			<img src="images/ecoboutik.jpg">
+		</div>
+		
+		<div class="commanditaire">
+			<img src="images/pasapas.gif">
+		</div>
+		
+		<div class="commanditaire">
+			<img src="images/hurtubise.jpg">
+		</div>
 	</div>
 
 <?php include("footer.php") ?>

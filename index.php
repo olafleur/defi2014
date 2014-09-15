@@ -20,20 +20,23 @@
 
 
 								<div style="text-align: justify">
-								C'est le 6 septembre prochain que
-								se tiendra le Défi Allaitement Québec 2014. Cette année, notre porte-parole sera la
-								flamboyante
-								auteure, animatrice et mère <span class="beaufont" style="text-align: center;"><a href="http://joseebournival.com" style="color:#666666">Josée Bournival.</a></span></div>
+
+209 mères ont allaité leur(s) enfant(s) à 11h samedi le 6 septembre dernier à Place Laurier. Une fois encore, le record de participation de l'année précédente à été battu. Merci 209 fois, car c'est grâce à VOUS si cet événement est un succès!<br></div>
+<div style="text-align: justify"><p style="text-indent: 2em">
+À tous les accompagnateurs qui ont su comprendre ce que représentait ce défi pour leur femme, leur fille ou leur amie, merci! Le support de l'entourage est déterminant dans la réussite d'un allaitement; vous faites donc partie aussi de la réussite du Défi Allaitement Québec 2014!
 
 							<br>
 							<div style="text-align: justify">
 							<p style="text-indent: 2em">
-								La dernière édition du Défi Allaitement Québec a attiré 195 mamans qui ont participé à
-								la
-								tétée
-								collective. De nombreux pères, enfants, grands-parents et amis étaient également bien
-								présents
-								pour soutenir la cause.
+
+
+
+
+Un merci tout spécial à notre généreuse porte-parole <span class="beaufont" style="text-align: center;"><a href="http://joseebournival.com" style="color:#666666">Josée Bournival</a></span> pour sa présence rayonnante et son allocution si ressourçante! 
+
+
+
+À vous tous et toutes, merci et au plaisir de vous retrouver pour l'édition 2015!
 							</p>
 							</div>
 						</div>
@@ -43,12 +46,12 @@
 					</center>
 				</td>
 
-				<td width=20% class="backrose">
-					<b><span class="beaufont">Des questions?</span></b><br>
+				<td style="vertical-align:middle" width=20% class="backrose">
+					<b><span class="beaufont">Des questions?</span></b><br><br>
 					Pour de plus amples renseignements sur l'allaitement, n'hésitez pas à contacter un groupe
 					d'entraide:<p>
 
-					<p><a href="http://www.chantelait.org"><b>Chantelait</b></a> <br>
+					<p><br><a href="http://www.chantelait.org"><b>Chantelait</b></a> <br>
 
 						418-877-5333</p>
 

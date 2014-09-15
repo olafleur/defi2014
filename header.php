@@ -31,7 +31,7 @@
 			<ul class="nav navbar-nav">
 				<li><a href="index.php">Accueil</a></li>
 				<li><a href="evenement.php">Évènement</a></li>
-				<li><a href="anciensdefis.php">Défis antérieurs</a></li>
+				<li><a href="anciensdefis.php">Photos</a></li>
 				<li><a href="commanditaires.php">Commanditaires</a></li>
 				<li><a href="inscription.php">Inscription</a></li>
 				<li><a href="contact.php">Contact</a></li>
