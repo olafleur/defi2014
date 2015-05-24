@@ -45,7 +45,7 @@
 				<img src="images/quebec.jpg">
 			</a>
 		</div>
-
+<!--
 		<div class="commanditaire">
 			<a href="http://www.ressources-naissances.com">
 				<img src="images/ressourcesnaissances.jpg">
@@ -148,6 +148,7 @@
 		<div class="commanditaire">
 			<img src="images/hurtubise.jpg">
 		</div>
+        -->
 	</div>
 
 <?php include("footer.php") ?>

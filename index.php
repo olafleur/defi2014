@@ -13,32 +13,22 @@
 					<table width="80%" class="backbleu"><tr><td>
 					<center>
 						<div style="width:90%;padding-top:20px;padding-bottom:20px">
-							<center><h1 class="beaufont">Défi 2014 - Laurier Québec</h1></center>
-							<img src=images/josee.jpg style="float:right;border:5px solid #777777;margin-left:30px">
+							<center><h1 class="beaufont">Défi 2015 - Laurier Québec</h1></center>
+							<img src=images/martin.jpg style="float:right;border:5px solid #777777;margin-left:30px">
 
 							<br>
 
 
 								<div style="text-align: justify">
 
-209 mères ont allaité leur(s) enfant(s) à 11h samedi le 6 septembre dernier à Place Laurier. Une fois encore, le record de participation de l'année précédente a été battu. Merci 209 fois, car c'est grâce à VOUS si cet événement a été un succès!<br></div>
+C'est le 12 septembre prochain que se tiendra le Défi Allaitement Québec 2015. Cette année, notre porte-parole sera le
+populaire animateur de radio et père Martin Dalair.<br></div>
 <div style="text-align: justify"><p style="text-indent: 2em">
-À tous les accompagnateurs qui ont su comprendre ce que représentait ce défi pour leur femme, leur fille ou leur amie, merci! Le support de l'entourage est déterminant dans la réussite d'un allaitement; vous faites donc partie aussi de la réussite du Défi Allaitement Québec 2014!
+La dernière édition du Défi Allaitement Québec a attiré plus de 200 mamans qui ont participé à la tétée
+collective. De nombreux pères, enfants, grands-parents et amis étaient également bien présents
+pour soutenir la cause.
 
-							<br>
-							<div style="text-align: justify">
-							<p style="text-indent: 2em">
-
-
-
-
-Un merci tout spécial à notre généreuse porte-parole <span class="beaufont" style="text-align: center;"><a href="http://joseebournival.com" style="color:#666666">Josée Bournival</a></span> pour sa présence rayonnante et son allocution si ressourçante! 
-
-
-
-À vous tous et toutes, merci et au plaisir de vous retrouver pour l'édition 2015!
-							</p>
-							</div>
+							
 						</div>
 					</center>
 							</td></tr>
