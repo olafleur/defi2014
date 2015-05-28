@@ -126,7 +126,9 @@
 		</div>
 -->
 		<div class="commanditaire">
-			<img src="images/zeste.jpg">
+            <a href="http://zestedetente.com/">
+                <img src="images/zeste.jpg">
+            </a>
 		</div>
 <!--
 		<div class="commanditaire">
