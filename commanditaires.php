@@ -45,25 +45,25 @@
 				<img src="images/quebec.jpg">
 			</a>
 		</div>
-<!--
+
 		<div class="commanditaire">
 			<a href="http://www.ressources-naissances.com">
 				<img src="images/ressourcesnaissances.jpg">
 			</a>
 		</div>
-
+<!--
 		<div class="commanditaire">
 			<a href="http://www.boutiquerosalice.com/">
 				<img src="images/rosalice.jpg">
 			</a>
 		</div>
-
+-->
 		<div class="commanditaire">
 			<a href="http://www.joellemalenfant.com">
 				<img src="images/drmalenfant.png">
 			</a>
 		</div>
-
+<!--
 		<div class="commanditaire">
 			<a href="http://www.lecapucin.ca">
 				<img src="images/capucin.png">
@@ -98,13 +98,13 @@
 				<img src="images/pediatrix.jpg">
 			</a>
 		</div>
-
+-->
 		<div class="commanditaire">
 			<a href="http://www.bougeotteetplacotine.ca/">
 				<img src="images/bougeotte.png">
 			</a>
 		</div>
-
+<!--
 		<div class="commanditaire">
 			<img src="images/Logo_caroline%20schoofs-final.png">
 		</div>
@@ -124,11 +124,11 @@
 		<div class="commanditaire">
 			<img src="images/laloba.jpg">
 		</div>
-
+-->
 		<div class="commanditaire">
 			<img src="images/zeste.jpg">
 		</div>
-
+<!--
 		<div class="commanditaire">
 			<img src="images/parentstoutinclus.png">
 		</div>
