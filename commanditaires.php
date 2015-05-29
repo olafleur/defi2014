@@ -51,6 +51,10 @@
 				<img src="images/ressourcesnaissances.jpg">
 			</a>
 		</div>
+        
+        <div class="commanditaire">
+			<img src="images/lexie-matteo.jpg">
+		</div>
 <!--
 		<div class="commanditaire">
 			<a href="http://www.boutiquerosalice.com/">
