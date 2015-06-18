@@ -155,6 +155,16 @@
 			<img src="images/hurtubise.jpg">
 		</div>
         -->
+        
+        <div class="commanditaire">
+            <a href="http://momzelle.com">
+                <img src="images/momzelle.jpg">
+            </a>
+        </div>
+        
+        <div class="commanditaire">
+            <img src="images/usana.jpg">
+        </div>
 	</div>
 
 <?php include("footer.php") ?>
