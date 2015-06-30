@@ -146,11 +146,14 @@
 		<div class="commanditaire">
 			<img src="images/ecoboutik.jpg">
 		</div>
-		
+		-->
 		<div class="commanditaire">
-			<img src="images/pasapas.gif">
+            <a href="http://www.centrepasapas.ca/">
+                <img src="images/pasapas.gif">
+            </a>
 		</div>
 		
+        <!--
 		<div class="commanditaire">
 			<img src="images/hurtubise.jpg">
 		</div>
