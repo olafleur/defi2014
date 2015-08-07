@@ -171,6 +171,10 @@
         <div class="commanditaire">
             <img src="images/usana.jpg">
         </div>
+        
+        <div class="commanditaire">
+            <img src="images/playtex.jpg">
+        </div>
 	</div>
 
 <?php include("footer.php") ?>
