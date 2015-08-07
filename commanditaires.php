@@ -134,17 +134,18 @@
                 <img src="images/zeste.jpg">
             </a>
 		</div>
-
 		<div class="commanditaire">
             <a href="http://parentstoutinclus.com/">
                 <img src="images/parentstoutinclus.png">
             </a>
 		</div>
-<!--		
-		<div class="commanditaire">
-			<font size=7><a href="https://www.facebook.com/pages/C%C3%A9raginaire-Julie-Magnan/126060011855?fref=ts">Céraginaire</a></font>
-		</div>
 		
+		<div class="commanditaire">
+			<a href="https://www.facebook.com/pages/C%C3%A9raginaire-Julie-Magnan/126060011855?fref=ts">
+                <img src="images/magnan.jpg">
+            </a>
+		</div>
+<!--		
 		<div class="commanditaire">
 			<img src="images/ecoboutik.jpg">
 		</div>
