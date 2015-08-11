@@ -86,13 +86,13 @@
 				<img src="images/wonderbra.jpg">
 			</a>
 		</div>
-
+-->
 		<div class="commanditaire">
 			<a href="http://www.massotherapieledauphinbleu.com/">
 				<img src="images/dauphinbleu.jpg"
 			</a>
 		</div>
-
+<!--
 		<div class="commanditaire">
 			<img src="images/thalasso.jpg">
 		</div>
@@ -174,6 +174,10 @@
         
         <div class="commanditaire">
             <img src="images/playtex.jpg">
+        </div>
+        
+        <div class="commanditaire">
+            <img src="images/maovic.png">
         </div>
 	</div>
 
