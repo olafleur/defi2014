@@ -179,6 +179,12 @@
         <div class="commanditaire">
             <img src="images/maovic.png">
         </div>
+        
+        <div class="commanditaire">
+            <a href="https://www.davidstea.com/">
+                <img src="images/davidstea.jpg">
+            </a>
+        </div>
 	</div>
 
 <?php include("footer.php") ?>
