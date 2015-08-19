@@ -173,10 +173,6 @@
         </div>
         
         <div class="commanditaire">
-            <img src="images/playtex.jpg">
-        </div>
-        
-        <div class="commanditaire">
             <img src="images/maovic.png">
         </div>
         
