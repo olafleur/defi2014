@@ -51,7 +51,7 @@
 				<img src="images/ressourcesnaissances.jpg">
 			</a>
 		</div>
-        
+
         <div class="commanditaire">
 			<img src="images/lexie-matteo.jpg">
 		</div>
@@ -112,11 +112,11 @@
 		<div class="commanditaire">
 			<img src="images/Logo_caroline%20schoofs-final.png">
 		</div>
-
+-->
 		<div class="commanditaire">
 			<img src="images/pakane.png">
 		</div>
-
+<!--
 		<div class="commanditaire">
 			<img src="images/rougefm.jpg">
 		</div>
@@ -124,11 +124,11 @@
 		<div class="commanditaire">
 			<img src="images/vertlimette.png">
 		</div>
-
+-->
 		<div class="commanditaire">
 			<img src="images/laloba.jpg">
 		</div>
--->
+
 		<div class="commanditaire">
             <a href="http://zestedetente.com/">
                 <img src="images/zeste.jpg">
@@ -139,13 +139,13 @@
                 <img src="images/parentstoutinclus.png">
             </a>
 		</div>
-		
+
 		<div class="commanditaire">
 			<a href="https://www.facebook.com/pages/C%C3%A9raginaire-Julie-Magnan/126060011855?fref=ts">
                 <img src="images/magnan.jpg">
             </a>
 		</div>
-<!--		
+<!--
 		<div class="commanditaire">
 			<img src="images/ecoboutik.jpg">
 		</div>
@@ -155,27 +155,27 @@
                 <img src="images/pasapas.gif">
             </a>
 		</div>
-		
+
         <!--
 		<div class="commanditaire">
 			<img src="images/hurtubise.jpg">
 		</div>
         -->
-        
+
         <div class="commanditaire">
             <a href="http://momzelle.com">
                 <img src="images/momzelle.jpg">
             </a>
         </div>
-        
+
         <div class="commanditaire">
             <img src="images/usana.jpg">
         </div>
-        
+
         <div class="commanditaire">
             <img src="images/maovic.png">
         </div>
-        
+
         <div class="commanditaire">
             <a href="https://www.davidstea.com/">
                 <img src="images/davidstea.jpg">
