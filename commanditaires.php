@@ -181,6 +181,12 @@
                 <img src="images/davidstea.jpg">
             </a>
         </div>
+
+				<div class="commanditaire">
+            <img src="images/cafejasette.jpg">
+        </div>
+				
+				<center><h1>Des ballons pour le plaisir</h1></center>
 	</div>
 
 <?php include("footer.php") ?>
