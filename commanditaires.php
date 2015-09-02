@@ -185,9 +185,9 @@
 				<div class="commanditaire">
             <img src="images/cafejasette.jpg">
         </div>
-
-				<center><table border=1><tr><td><center><a href="https://www.facebook.com/desballonspourleplaisir?__mref=message_bubble">
-					<img src="images/desballons.png"><br><img src="images/pourleplaisir.png"</a></center></td></tr></table></center>
+				<br><br>
+				<p><center><table border=0><tr><td><center><a href="https://www.facebook.com/desballonspourleplaisir?__mref=message_bubble">
+					<img src="images/desballons.png"><br><img src="images/pourleplaisir.png"</a></center></td></tr></table></center></p>
 	</div>
 
 <?php include("footer.php") ?>
