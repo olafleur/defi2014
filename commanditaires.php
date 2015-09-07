@@ -55,13 +55,13 @@
         <div class="commanditaire">
 			<img src="images/lexie-matteo.jpg">
 		</div>
-<!--
+
 		<div class="commanditaire">
-			<a href="http://www.boutiquerosalice.com/">
+			<a href="http://www.boutique-rosalice.com/">
 				<img src="images/rosalice.jpg">
 			</a>
 		</div>
--->
+
 		<div class="commanditaire">
 			<a href="http://www.joellemalenfant.com">
 				<img src="images/drmalenfant.png">
@@ -188,6 +188,18 @@
 				<br><br>
 				<p><center><table border=0><tr><td><center><a href="https://www.facebook.com/desballonspourleplaisir?__mref=message_bubble">
 					<img src="images/desballons.png"><br><img src="images/pourleplaisir.png"</a></center></td></tr></table></center></p>
+
+					<div class="commanditaire">
+	            <a href="http://www.bavettesetcompagnie.com/">
+	                <img src="images/bavettes.png">
+	            </a>
+	        </div>
+
+					<div class="commanditaire">
+	            <a href="http://www.marykay.ca/gmorin/">
+	                <img src="images/gabriellemorin.png">
+	            </a>
+	        </div>
 	</div>
 
 <?php include("footer.php") ?>
