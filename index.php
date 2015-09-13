@@ -14,22 +14,26 @@
 					<center>
 						<div style="width:90%;padding-top:20px;padding-bottom:20px">
 							<center><h1 class="beaufont">Défi 2015 - Laurier Québec</h1></center>
-							<img src=images/martin.jpg style="float:right;border:5px solid #777777;margin-left:30px">
+							<img src=images/defi2015-accueil2.jpg style="border:5px solid #777777;margin-left:30px">
 
-							<br>
+							<p>
 
 
 								<div style="text-align: justify">
 
-C'est le 12 septembre prochain que se tiendra le Défi Allaitement Québec 2015. Cette année, notre porte-parole sera le
-populaire animateur de radio et père Martin Dalair.<br></div>
-<div style="text-align: justify"><p style="text-indent: 2em">
-La dernière édition du Défi Allaitement Québec a attiré plus de 200 mamans qui ont participé à la tétée
-collective. De nombreux pères, enfants, grands-parents et amis étaient également bien présents
-pour soutenir la cause.
+									<div style="text-indent: 15px;">Quelle magnifique édition nous avons eue en ce beau samedi 12 septembre!</div>
 
-							
+									<div style="text-indent: 15px;">Ce sont 215 tétées simultanées qui ont illuminé ce Défi Allaitement 2015, un nouveau record pour notre événement. 215 fois merci! Pour consulter les photos rendues disponibles par notre photographe Dominique Richard, allez à l'onglet <a href="anciensdefis.php">photos</a>.</div>
+
+									<div style="text-indent: 15px;">Merci à toutes les personnes, conjoints, parents et amis qui sont venus soutenir les participantes! Grâce à vous, l'allaitement, c'est réellement une histoire de famille… et de société!</div>
+
+									<div style="text-indent: 15px;">Un merci tout particulier à notre porte-parole, Martin Dalair, qui a fait un travail formidable pour animer l'avant-midi avec Stéphanie Michon, membre de l'équipe organisatrice.</div>
+
+									<div style="text-indent: 15px;">C'est un rendez-vous l'an prochain!</div>
+
+
 						</div>
+					</p>
 					</center>
 							</td></tr>
 					</table>

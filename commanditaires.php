@@ -200,6 +200,12 @@
 	                <img src="images/gabriellemorin.png">
 	            </a>
 	        </div>
+
+					<div class="commanditaire">
+	            <a href="http://bullebijouterie.com/">
+	                <img src="images/bulle.png">
+	            </a>
+	        </div>
 	</div>
 
 <?php include("footer.php") ?>
