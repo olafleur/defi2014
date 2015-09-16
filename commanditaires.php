@@ -124,10 +124,11 @@
 		<div class="commanditaire">
 			<img src="images/vertlimette.png">
 		</div>
--->
+
 		<div class="commanditaire">
 			<img src="images/laloba.jpg">
 		</div>
+	-->
 
 		<div class="commanditaire">
             <a href="http://zestedetente.com/">
