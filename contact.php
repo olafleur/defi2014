@@ -39,7 +39,7 @@
 		<center>
 		<div class="backbleu" style="width:78%;padding-top:30px">
 			<iframe
-				src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2732.7714938384447!2d-71.2842963!3d46.769400399999995!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb896cd2a003fdf%3A0xe581c182930cf040!2s2700+Boulevard+Laurier!5e0!3m2!1sfr!2s!4v1396122573374"
+				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2730.0613545634205!2d-71.25451864845729!3d46.82279287903813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb89646fccd4a35%3A0xd2e169828d451473!2s552+Boulevard+Wilfrid-Hamel%2C+Ville+de+Qu%C3%A9bec%2C+QC+G1M+4B3!5e0!3m2!1sfr!2sca!4v1464651896519"
 				width="800" height="600">
 			</iframe>
 		</div>

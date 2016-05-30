@@ -3,13 +3,13 @@
 	<img src=images/logo-couleur.png>
 	<img src=images/haut.png style="border:5px solid #999999">
 
-	<h1 class="beaufont fontgris">Défi Allaitement 2015</h1>
+	<h1 class="beaufont fontgris">Défi Allaitement 2016</h1>
 
 	<h2 class="beaufont fontgris">Horaire</h2>
 	<center>
 		<div class="backrose" style="text-align:left; width:60%">
 			<center>
-				L'évènement aura lieu le 12 septembre 2015 dans le cadre du Salon Nouvelle Maman, à Laurier Québec (2700, boul. Laurier).<br><br>
+				L'évènement aura lieu le 10 septembre 2016 à Fleur de lys (552, boulevard Wilfrid-Hamel).<br><br>
 				<b>9h</b> : Accueil et inscription<br>
                 <b>9h30</b> : Animation<br>
 				<b>10h30</b> : Défi allaitement<br>
@@ -22,7 +22,7 @@
 	<center>
 		<div class="backrose" style="text-align:left; width:60%">
 			<center>
-				Les principaux objectifs de l’évènement ayant comme thématique :<br> <b>« L'allaitement : une histoire de famille »</b>
+				Les principaux objectifs de l’évènement ayant comme thématique :<br> <b>« L'allaitement, parce que chaque geste compte »</b>
 				sont :<br><br>
 			</center>
 				* Fournir des renseignements de qualité aux mères concernant l’allaitement et le soutien offert par la
@@ -41,4 +41,3 @@
 </div>
 
 <?php include("footer.php") ?>
-

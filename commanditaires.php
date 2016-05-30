@@ -29,18 +29,6 @@
 		</div>
 
 		<div class="commanditaire">
-			<a href="http://laurierquebec.com">
-				<img src="images/laurier.jpg">
-			</a>
-		</div>
-
-		<div class="commanditaire">
-			<a href="http://force-g.ca">
-				<img src="images/forceg.png">
-			</a>
-		</div>
-
-		<div class="commanditaire">
 			<a href="http://www.rrsss03.gouv.qc.ca/">
 				<img src="images/quebec.jpg">
 			</a>
@@ -52,161 +40,11 @@
 			</a>
 		</div>
 
-        <div class="commanditaire">
-			<img src="images/lexie-matteo.jpg">
-		</div>
-
 		<div class="commanditaire">
-			<a href="http://www.boutique-rosalice.com/">
-				<img src="images/rosalice.jpg">
-			</a>
-		</div>
-
-		<div class="commanditaire">
-			<a href="http://www.joellemalenfant.com">
-				<img src="images/drmalenfant.png">
-			</a>
-		</div>
-<!--
-		<div class="commanditaire">
-			<a href="http://www.lecapucin.ca">
-				<img src="images/capucin.png">
-			</a><br>
-			(anciennement <a href="http://www.lacalinerie.com">La Câlinerie</a>)
-		</div>
-
-		<div class="commanditaire">
-			<a href="http://www.aquariumduquebec.com">
-				<img src="images/aquarium.jpg">
-			</a>
-		</div>
-
-		<div class="commanditaire">
-			<a href="http://wonderbra.ca">
-				<img src="images/wonderbra.jpg">
-			</a>
-		</div>
--->
-		<div class="commanditaire">
-			<a href="http://www.massotherapieledauphinbleu.com/">
-				<img src="images/dauphinbleu.jpg"
-			</a>
-		</div>
-<!--
-		<div class="commanditaire">
-			<img src="images/thalasso.jpg">
-		</div>
-
-		<div class="commanditaire">
-			<a href="http://www.rpsp.ca/">
-				<img src="images/pediatrix.jpg">
-			</a>
-		</div>
--->
-		<div class="commanditaire">
-			<a href="http://www.bougeotteetplacotine.ca/">
-				<img src="images/bougeotte.png">
-			</a>
-		</div>
-<!--
-		<div class="commanditaire">
-			<img src="images/Logo_caroline%20schoofs-final.png">
-		</div>
--->
-		<div class="commanditaire">
-			<img src="images/pakane.png">
-		</div>
-<!--
-		<div class="commanditaire">
-			<img src="images/rougefm.jpg">
-		</div>
-
-		<div class="commanditaire">
-			<img src="images/vertlimette.png">
-		</div>
-
-		<div class="commanditaire">
-			<img src="images/laloba.jpg">
-		</div>
-	-->
-
-		<div class="commanditaire">
-            <a href="http://zestedetente.com/">
-                <img src="images/zeste.jpg">
-            </a>
-		</div>
-		<div class="commanditaire">
-            <a href="http://parentstoutinclus.com/">
-                <img src="images/parentstoutinclus.png">
-            </a>
-		</div>
-
-		<div class="commanditaire">
-			<a href="https://www.facebook.com/pages/C%C3%A9raginaire-Julie-Magnan/126060011855?fref=ts">
-                <img src="images/magnan.jpg">
-            </a>
-		</div>
-<!--
-		<div class="commanditaire">
-			<img src="images/ecoboutik.jpg">
-		</div>
-		-->
-		<div class="commanditaire">
-            <a href="http://www.centrepasapas.ca/">
-                <img src="images/pasapas.gif">
-            </a>
-		</div>
-
-        <!--
-		<div class="commanditaire">
-			<img src="images/hurtubise.jpg">
-		</div>
-        -->
-
-        <div class="commanditaire">
-            <a href="http://momzelle.com">
-                <img src="images/momzelle.jpg">
-            </a>
-        </div>
-
-        <div class="commanditaire">
-            <img src="images/usana.jpg">
-        </div>
-
-        <div class="commanditaire">
-            <img src="images/maovic.png">
-        </div>
-
-        <div class="commanditaire">
-            <a href="https://www.davidstea.com/">
-                <img src="images/davidstea.jpg">
-            </a>
-        </div>
-
-				<div class="commanditaire">
-            <img src="images/cafejasette.jpg">
-        </div>
-				<br><br>
-				<p><center><table border=0><tr><td><center><a href="https://www.facebook.com/desballonspourleplaisir?__mref=message_bubble">
-					<img src="images/desballons.png"><br><img src="images/pourleplaisir.png"</a></center></td></tr></table></center></p>
-
-					<div class="commanditaire">
-	            <a href="http://www.bavettesetcompagnie.com/">
-	                <img src="images/bavettes.png">
-	            </a>
-	        </div>
-
-					<div class="commanditaire">
-	            <a href="http://www.marykay.ca/gmorin/">
-	                <img src="images/gabriellemorin.png">
-	            </a>
-	        </div>
-
-					<div class="commanditaire">
-	            <a href="http://bullebijouterie.com/">
-	                <img src="images/bulle.png">
-	            </a>
-	        </div>
+	      <a href="http://bullebijouterie.com/">
+	          <img src="images/bulle.png">
+	      </a>
+	  </div>
 	</div>
 
 <?php include("footer.php") ?>

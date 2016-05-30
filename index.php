@@ -13,7 +13,7 @@
 					<table width="80%" class="backbleu"><tr><td>
 					<center>
 						<div style="width:90%;padding-top:20px;padding-bottom:20px">
-							<center><h1 class="beaufont">Défi 2015 - Laurier Québec</h1></center>
+							<center><h1 class="beaufont">Défi 2016 - Fleur de lys</h1></center>
 							<img src=images/defi2015-accueil2.jpg style="border:5px solid #777777;margin-left:30px">
 
 							<p>
@@ -21,16 +21,11 @@
 
 								<div style="text-align: justify">
 
-									<div style="text-indent: 15px;">Quelle magnifique édition nous avons eue en ce beau samedi 12 septembre!</div>
+									<div style="text-indent: 15px;">C'est avec plaisir et fébrilité que nous attendons mères, enfants et supporteurs le 10 septembre prochain à Fleur de lys!</div>
 
-									<div style="text-indent: 15px;">Ce sont 215 tétées simultanées qui ont illuminé ce Défi Allaitement 2015, un nouveau record pour notre événement. 215 fois merci! Pour consulter les photos rendues disponibles par notre photographe Dominique Richard, allez à l'onglet <a href="anciensdefis.php">photos</a>.</div>
+									<div style="text-indent: 15px;">En 2015, nous avions été témoins de 215 belles tétées simultanées, un record pour notre événement! Cette année, nous tenterons de battre ce record, grâce à vous!</div>
 
-									<div style="text-indent: 15px;">Merci à toutes les personnes, conjoints, parents et amis qui sont venus soutenir les participantes! Grâce à vous, l'allaitement, c'est réellement une histoire de famille… et de société!</div>
-
-									<div style="text-indent: 15px;">Un merci tout particulier à notre porte-parole, Martin Dalair, qui a fait un travail formidable pour animer l'avant-midi avec Stéphanie Michon, membre de l'équipe organisatrice.</div>
-
-									<div style="text-indent: 15px;">C'est un rendez-vous l'an prochain!</div>
-
+									<div style="text-indent: 15px;">Au menu : animation, gâteries et prix de présence.</div>
 
 						</div>
 					</p>
