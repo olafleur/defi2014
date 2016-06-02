@@ -14,12 +14,12 @@
 					<center>
 						<div style="width:90%;padding-top:20px;padding-bottom:20px">
 							<center><h1 class="beaufont">Défi 2016 - Fleur de lys</h1></center>
-							<img src=images/defi2015-accueil2.jpg style="border:5px solid #777777;margin-left:30px">
+							<img src=images/defi2015-4.jpg style="border:5px solid #777777;margin-left:30px" width="500" height="333">
 
 							<p>
 
 
-								<div style="text-align: justify">
+								<div style="text-align: center">
 
 									<div style="text-indent: 15px;">C'est avec plaisir et fébrilité que nous attendons mères, enfants et supporteurs le 10 septembre prochain à Fleur de lys!</div>
 

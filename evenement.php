@@ -9,7 +9,7 @@
 	<center>
 		<div class="backrose" style="text-align:left; width:60%">
 			<center>
-				L'évènement aura lieu le 10 septembre 2016 à Fleur de lys (552, boulevard Wilfrid-Hamel).<br><br>
+				L'évènement aura lieu le 10 septembre 2016 à <br>Fleur de lys (552, boulevard Wilfrid-Hamel).<br><br>
 				<b>9h</b> : Accueil et inscription<br>
                 <b>9h30</b> : Animation<br>
 				<b>10h30</b> : Défi allaitement<br>

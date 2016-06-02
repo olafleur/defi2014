@@ -35,16 +35,22 @@
 		</div>
 
 		<div class="commanditaire">
-			<a href="http://www.ressources-naissances.com">
-				<img src="images/ressourcesnaissances.jpg">
-			</a>
-		</div>
-
-		<div class="commanditaire">
 	      <a href="http://bullebijouterie.com/">
 	          <img src="images/bulle.png">
 	      </a>
 	  </div>
+
+		<div class="commanditaire">
+				<a href="http://www.fdlcentrecommercial.com/">
+					 <img src="images/fdl.jpg">
+				</a>
+		</div>
+
+		<div class="commanditaire">
+				<a href="http://www.20vic.com/">
+						<img src="images/20vic.png">
+				</a>
+		</div>
 	</div>
 
 <?php include("footer.php") ?>
