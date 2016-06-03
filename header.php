@@ -8,7 +8,7 @@
 	<meta name="author" content="">
 
 	<title>Défi allaitement Québec 2016</title>
-
+	
 	<!-- Bootstrap core CSS -->
 	<link href="css/bootstrap.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">

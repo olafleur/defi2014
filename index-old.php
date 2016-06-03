@@ -6,9 +6,15 @@
 		<img src=images/allaitement.png style="border:5px solid #999999">
 
 		<p>&nbsp;&nbsp;&nbsp;
-						<div style="width:700px;padding-top:20px;padding-bottom:20px;display:inline-block" class="backbleu">
-							<center><h1 class="beaufont">Défi 2016 - Fleur de lys</h1>
-							<img src=images/defi2015-4.jpg style="border:5px solid #777777;margin-left:30px" width="500" height="333"></center>
+		<table width=100%>
+			<tr>
+				<td width=75%>
+					<center>
+					<table width="80%" class="backbleu"><tr><td>
+					<center>
+						<div style="width:90%;padding-top:20px;padding-bottom:20px">
+							<center><h1 class="beaufont">Défi 2016 - Fleur de lys</h1></center>
+							<img src=images/defi2015-4.jpg style="border:5px solid #777777;margin-left:30px" width="500" height="333">
 
 							<p>
 
@@ -22,9 +28,14 @@
 									<div style="text-indent: 15px;">Au menu : animation, gâteries et prix de présence.</div>
 
 						</div>
-					</div>
+					</p>
+					</center>
+							</td></tr>
+					</table>
+					</center>
+				</td>
 
-				<div style="vertical-align:middle;width:300px;display:inline-block" class="backrose">
+				<td style="vertical-align:middle" width=20% class="backrose">
 					<b><span class="beaufont">Des questions?</span></b><br><br>
 					Pour de plus amples renseignements sur l'allaitement, n'hésitez pas à contacter un groupe
 					d'entraide:<p>
@@ -44,7 +55,10 @@
 					<p><a href="http://www.allaitementquebec.org"><b>Allaitement Québec</b></a><br>
 
 						418-623-0971</p>
-				</div>
+				</td>
+				<td width=5% style="background-color:transparent;"></td>
+			</tr>
+		</table>
 
 	</div>
 
