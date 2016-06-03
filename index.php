@@ -21,6 +21,8 @@
 
 									<div style="text-indent: 15px;">Au menu : animation, gâteries et prix de présence.</div>
 
+									<div style="text-indent: 15px;"><a href="inscription.php">Je veux m'inscrire</a></div>
+
 						</div>
 					</div>
 
