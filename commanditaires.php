@@ -51,6 +51,42 @@
 						<img src="images/20vic.png">
 				</a>
 		</div>
+		
+		<div class="commanditaire">
+				<a href="http://www.vertlimette.com/">
+						<img src="images/vertlimette.png">
+				</a>
+		</div>
+		
+		<div class="commanditaire">
+				<a href="http://www.massotherapieledauphinbleu.com/">
+						<img src="images/dauphinbleu.jpg">
+				</a>
+		</div>
+		
+		<div class="commanditaire">
+				<a href="https://www.lecapucin.ca/">
+						<img src="images/capucin.png">
+				</a>
+		</div>
+		
+		<div class="commanditaire">
+				<a href="http://www.ecoboutik.ca/fr/">
+						<img src="images/ecoboutik.jpg">
+				</a>
+		</div>
+		
+		<div class="commanditaire">
+				<a href="http://www.ressources-naissances.com/">
+						<img src="images/ressourcesnaissances.jpg">
+				</a>
+		</div>
+		
+		<div class="commanditaire">
+				<a href="http://www.momzelle.com/fr/">
+						<img src="images/momzelle.jpg">
+				</a>
+		</div>
 	</div>
 
 <?php include("footer.php") ?>
