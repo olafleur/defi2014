@@ -51,41 +51,54 @@
 						<img src="images/20vic.png">
 				</a>
 		</div>
-		
-		<div class="commanditaire">
-				<a href="http://www.vertlimette.com/">
-						<img src="images/vertlimette.png">
-				</a>
-		</div>
-		
-		<div class="commanditaire">
-				<a href="http://www.massotherapieledauphinbleu.com/">
-						<img src="images/dauphinbleu.jpg">
-				</a>
-		</div>
-		
+
 		<div class="commanditaire">
 				<a href="https://www.lecapucin.ca/">
 						<img src="images/capucin.png">
 				</a>
 		</div>
-		
+
 		<div class="commanditaire">
-				<a href="http://www.ecoboutik.ca/fr/">
-						<img src="images/ecoboutik.jpg">
+				<a href="http://www.vertlimette.com/">
+						<img src="images/vertlimette.png">
 				</a>
 		</div>
-		
+
+		<div class="commanditaire">
+				<a href="http://www.massotherapieledauphinbleu.com/">
+						<img src="images/dauphinbleu.jpg">
+				</a>
+		</div>
+
 		<div class="commanditaire">
 				<a href="http://www.ressources-naissances.com/">
 						<img src="images/ressourcesnaissances.jpg">
 				</a>
 		</div>
-		
+
+		<div class="commanditaire">
+				<a href="http://www.ecoboutik.ca/fr/">
+						<img src="images/ecoboutik.jpg">
+				</a>
+		</div>
+
 		<div class="commanditaire">
 				<a href="http://www.momzelle.com/fr/">
 						<img src="images/momzelle.jpg">
 				</a>
+		</div>
+
+		<div class="commanditaire">
+				<a href="https://www.facebook.com/jeuxplacote/?fref=ts&__mref=message_bubble">
+						<img src="images/placote.png"><br>
+						Placote des Éditions Passe-Temps
+				</a>
+		</div>
+
+		<div class="commanditaire">
+			<a href="http://www.bougeotteetplacotine.ca/">
+					<img src="images/bougeotte.png">
+			</a>
 		</div>
 	</div>
 
