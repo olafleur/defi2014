@@ -100,6 +100,12 @@
 					<img src="images/bougeotte.png">
 			</a>
 		</div>
+
+		<div class="commanditaire">
+			<a href="http://www.maxi.ca/">
+					<img src="images/maxi.png">
+			</a>
+		</div>
 	</div>
 
 <?php include("footer.php") ?>
