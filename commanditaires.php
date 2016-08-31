@@ -106,6 +106,12 @@
 					<img src="images/maxi.png">
 			</a>
 		</div>
+
+		<div class="commanditaire">
+			<a href="https://www.facebook.com/LexieetMatteo/">
+					<img src="images/lexie-matteo.jpg">
+			</a>
+		</div>
 	</div>
 
 <?php include("footer.php") ?>
