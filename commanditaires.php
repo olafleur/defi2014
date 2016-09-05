@@ -112,6 +112,30 @@
 					<img src="images/lexie-matteo.jpg">
 			</a>
 		</div>
+
+		<div class="commanditaire">
+			<a href="http://www.zestedetente.com/">
+					<img src="images/zeste.jpg">
+			</a>
+		</div>
+
+		<div class="commanditaire">
+			<a href="https://www.davidstea.com/ca_fr/">
+					<img src="images/davidstea.jpg">
+			</a>
+		</div>
+
+		<div class="commanditaire">
+			<a href="http://www.boutique-rosalice.com/">
+					<img src="images/rosalice.jpg">
+			</a>
+		</div>
+
+		<div class="commanditaire">
+			<a href="https://www.facebook.com/Bebelugaconfections/">
+					<img src="images/bebeluga.png">
+			</a>
+		</div>
 	</div>
 
 <?php include("footer.php") ?>
