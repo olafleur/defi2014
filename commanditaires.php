@@ -138,6 +138,12 @@
 		</div>
 
 		<div class="commanditaire">
+			<a href="https://www.etsy.com/ca/shop/CreationFoliePlastic">
+					<img src="images/folieplastic.png">
+			</a>
+		</div>
+
+		<div class="commanditaire">
 			Nous remercions le Programme canadien de nutrition prénatale (PCNP) <br>– Agence de la santé publique du Canada – pour leur contribution financière à ce projet.
 		</div>
 	</div>
