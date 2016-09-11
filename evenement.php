@@ -5,14 +5,12 @@
 
 	<h1 class="beaufont fontgris">Défi Allaitement 2016</h1>
 
-	<h2 class="beaufont fontgris">Horaire</h2>
+	<h2 class="beaufont fontgris">On parle de nous</h2>
 	<center>
 		<div class="backrose" style="text-align:left; width:60%">
 			<center>
-				L'évènement aura lieu le 10 septembre 2016 à <br>Fleur de lys (552, boulevard Wilfrid-Hamel).<br><br>
-				<b>9h</b> : Accueil et inscription<br>
-                <b>9h30</b> : Animation<br>
-				<b>10h30</b> : Défi allaitement<br>
+				<a href="http://www.quebechebdo.com/Communaute/2016-09-09/article-4636140/Plus-de-200-mamans-attendues-au-Defi-Allaitement-2016/1">Plus de 200 mamans attendues au Défi Allaitement 2016</a><br><br>
+				<a href="http://www.quebechebdo.com/Actualites/Societe/2016-09-10/article-4637843/Ensemble-pour-l%26rsquo%3Ballaitement-public/1">Ensemble pour l’allaitement public</a>
 			</center>
 		</div>
 	</center>
