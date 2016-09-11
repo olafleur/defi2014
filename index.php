@@ -15,13 +15,15 @@
 
 								<div style="text-align: center">
 
-									<div style="text-indent: 15px;">C'est avec plaisir et fébrilité que nous attendons mères, enfants et supporteurs le 10 septembre prochain à Fleur de lys!</div>
+									<div style="text-indent: 15px;"><b>176 fois MERCI pour votre belle participation!</b></div>
 
-									<div style="text-indent: 15px;">En 2015, nous avions été témoins de 215 belles tétées simultanées, un record pour notre événement! Cette année, nous tenterons de battre ce record, grâce à vous!</div>
+									<div style="text-indent: 15px;">176 belles tétées simultanées, c'est drôlement beau à regarder!</div>
 
-									<div style="text-indent: 15px;">Au menu : animation, gâteries et prix de présence.</div>
+									<div style="text-indent: 15px;">Nous sommes privilégiées d'avoir été témoins de ces doux moments, de votre amour, de votre énergie et de votre persévérance. Merci d'être venus partager un peu de votre famille et de votre expérience avec nous. </div>
 
-									<div style="text-indent: 15px;"><a href="inscription.php">Je veux m'inscrire</a></div>
+									<div style="text-indent: 15px;">Un merci spécial à notre porte-parole Valérie Doran qui est venue partager avec nous son expérience d'allaitement.</div>
+
+									<div style="text-indent: 15px;">On se dit à l'an prochain!</div>
 
 						</div>
 					</div>

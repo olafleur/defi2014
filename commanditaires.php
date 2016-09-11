@@ -144,6 +144,18 @@
 		</div>
 
 		<div class="commanditaire">
+			<a href="http://www.roseetpamplemousse.com/">
+					<img src="images/cafejasette.jpg">
+			</a>
+		</div>
+
+		<div class="commanditaire">
+			<a href="http://minisafari.ca/bienvenue.html">
+					<img src="images/minisafari.jpg">
+			</a>
+		</div>
+
+		<div class="commanditaire">
 			Nous remercions le Programme canadien de nutrition prénatale (PCNP) <br>– Agence de la santé publique du Canada – pour leur contribution financière à ce projet.
 		</div>
 	</div>
