@@ -10,7 +10,7 @@ if (!isset($_POST['message'])) {
 
 $mail->From = $_POST['email'];
 $mail->FromName = stripslashes($_POST['prenom']) . " " . stripslashes($_POST['nom']);
-$mail->addAddress("emmanuela.diaz@videotron.ca"); // Add a recipient
+$mail->addAddress("Swim_alex@hotmail.com"); // Add a recipient
 
 $mail->WordWrap = 50; // Set word wrap to 50 characters
 $mail->isHTML(true); // Set email format to HTML
