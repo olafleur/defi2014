@@ -3,11 +3,10 @@
 	<div class="starter-template">
 
 		<img src=images/logo-couleur.png>
-		<img src=images/allaitement.png style="border:5px solid #999999">
 
 		<p>&nbsp;&nbsp;&nbsp;
 						<div style="width:700px;padding-top:20px;padding-bottom:20px;display:inline-block" class="backbleu">
-							<center><h1 class="beaufont">Défi 2016 - Fleur de lys</h1>
+							<center><h1 class="beaufont">Défi 2017 - Fleur de lys</h1>
 							<img src=images/defi2015-4.jpg style="border:5px solid #777777;margin-left:30px" width="500" height="333"></center>
 
 							<p>
@@ -15,15 +14,13 @@
 
 								<div style="text-align: center">
 
-									<div style="text-indent: 15px;"><b>176 fois MERCI pour votre belle participation!</b></div>
+									<div style="text-indent: 15px;">Le Défi allaitement se tiendra cette année le 30 septembre 2017</div>
 
-									<div style="text-indent: 15px;">176 belles tétées simultanées, c'est drôlement beau à regarder!</div>
+									<div style="text-indent: 15px;">à Place Fleur de Lys</div>
 
-									<div style="text-indent: 15px;">Nous sommes privilégiées d'avoir été témoins de ces doux moments, de votre amour, de votre énergie et de votre persévérance. Merci d'être venus partager un peu de votre famille et de votre expérience avec nous. </div>
+									<div style="text-indent: 15px;">Accueil et inscription : dès 9h30</div>
 
-									<div style="text-indent: 15px;">Un merci spécial à notre porte-parole Valérie Doran qui est venue partager avec nous son expérience d'allaitement.</div>
-
-									<div style="text-indent: 15px;">On se dit à l'an prochain!</div>
+									<div style="text-indent: 15px;">Défi allaitement : 11h00</div>
 
 						</div>
 					</div>

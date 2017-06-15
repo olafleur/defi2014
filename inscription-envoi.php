@@ -10,7 +10,7 @@ if (!isset($_POST['nom'])) {
 
 $mail->From = $_POST['email'];
 $mail->FromName = $_POST['prenom'] . " " . $_POST['nom'];
-$mail->addAddress("Swim_alex@hotmail.com"); // Add a recipient
+$mail->addAddress("info@defiallaitementquebec.com"); // Add a recipient
 
 $mail->WordWrap = 50; // Set word wrap to 50 characters
 $mail->isHTML(true); // Set email format to HTML
@@ -34,7 +34,7 @@ include("header.php") ?>
 			exit;
 		}
 
-		echo 'Vous êtes maintenant inscrite au Défi Allaitement 2016. Félicitations!<br><a href="index.php">Retourner à la page principale</a>'; ?>
+		echo 'Vous êtes maintenant inscrite au Défi Allaitement 2017. Félicitations!<br><a href="index.php">Retourner à la page principale</a>'; ?>
 
 	</div>
 

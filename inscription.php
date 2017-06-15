@@ -1,7 +1,7 @@
 <?php include("header.php") ?>
 	<div class="starter-template">
 		<img src=images/logo-couleur.png>
-		<h1 class="beaufont fontgris">Inscription au Défi allaitement 2016</h1>
+		<h1 class="beaufont fontgris">Inscription au Défi allaitement 2017</h1>
 		<center>
 		<div class="backrose" style="width:70%">
 			<form method="post" action="inscription-envoi.php" onsubmit="return verify()">
@@ -32,7 +32,7 @@
 					</div>
 				</center>
 				<br>
-				<button type="submit">S'inscrire au Défi Allaitement 2016</button>
+				<button type="submit">S'inscrire au Défi Allaitement 2017</button>
 			</form>
 		</div>
 		</center>
