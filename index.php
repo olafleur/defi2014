@@ -30,10 +30,6 @@
 					Pour de plus amples renseignements sur l'allaitement, n'hésitez pas à contacter un groupe
 					d'entraide:<p>
 
-					<p><br><a href="http://www.chantelait.org"><b>Chantelait</b></a> <br>
-
-						418-877-5333</p>
-
 					<p><a href="http://www.mamielait.com"><b>Mamie-lait</b></a><br>
 
 						418-847-1957</p>
